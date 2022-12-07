@@ -3,8 +3,8 @@
 # Python program that:
 # demonstrates how to return a set of all elements present in only one set
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
+# (C) 2022 Hassan Mohamed, Nairobi, Kenya
+# email haska0491434@gmail.com
 # -----------------------------------------------------------
 
 
