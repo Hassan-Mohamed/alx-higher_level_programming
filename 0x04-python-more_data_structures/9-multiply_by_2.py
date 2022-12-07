@@ -3,8 +3,8 @@
 # Python program that:
 # demonstrates how to return a new dictionary with all values multiplied by 2
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
+# (C) 2022 Hassan Mohamed, Nairobi, Kenya
+# email haska0491434@gmail.com
 # -----------------------------------------------------------
 
 
